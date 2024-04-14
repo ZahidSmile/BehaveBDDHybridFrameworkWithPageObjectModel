@@ -9,7 +9,7 @@ Allure-behave: Allure-behave is a plugin for Behave that generates Allure-compat
 Allure-pytest: Allure-pytest is a library that provides integration between Python testing frameworks (such as Behave) and Allure reporting.
 Additionally, you'll need to install the specific WebDriver for the browser(s) you plan to automate. Here's how you can install these dependencies using pip:
 
-pip install selenium
-pip install behave
-pip install allure-behave
-pip install allure-pytest
+* pip install selenium
+* pip install behave
+* pip install allure-behave
+* pip install allure-pytest
